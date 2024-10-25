@@ -1,0 +1,7 @@
+john,groupe1,/bin/bash,/home/john
+esteban,groupe2,/bin/bash,/home/esteban
+antho,groupe1,/bin/bash,/home/antho
+chakou,groupe2,/bin/bash,/home/chakou
+dylan,groupe1,/bin/bash,/home/dylan
+lonny,groupe2,/bin/bash,/home/lonny
+
